@@ -1,0 +1,19 @@
+/* this css file */
+table{
+background-color:black;
+}
+table,td{
+border:3px solid yellow;
+color:white;
+}
+table,h1{
+background-color:red;
+color:blue;
+width:266px;
+height:90px;
+}
+div img{
+opacity:0.8;/* */
+filter:alpha(opacity=50);
+z-index:-1;
+}
